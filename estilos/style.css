@@ -1,7 +1,14 @@
 body
 {
+<<<<<<< HEAD
     background-color: yellow;
     font-weight: bold;
     color: chocolate;
     
+=======
+    background-color: white;
+    font-weight: bold;
+    color: black;
+    font-size = 18px:
+>>>>>>> a77285a6fa3ab97fb7aeb774c9590fc1952a0d0a
 }
